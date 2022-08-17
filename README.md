@@ -2,19 +2,14 @@
 
 # Microverse project day 2
 
-> Description the project.
+> This is a pilot project of the Microverse Curriculum Week1/Day2.
+> It focusses on linters and pull request as opensource projects open for reviews.
 
 
 ## Built With
 
 - Major languages: HTML and CSS
 - Frameworks: N/A
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -24,32 +19,19 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+You must have git installed in your computer to be able to clone the repository. In another way, you can download the project and unpack the project in your local environnement and use files.
 
-### Setup
+### Download and clone
+In the project repository root, just click on the "Clone or download" button. Then, copy the SSH or HTTPS link visible just under the button. In your local environnement, open the Terminal or CMD and navigate to the folder in which you'd like to extract the project. Type "git clone " then paste the URL that you've just copied from the remote repository and press enter.
+If you you clicked on the download button, git should open a download dialod. Extract the project in the disired directory.
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+## Run the project
+Double-click on the .html file to open the project.
 ## Authors
 
-👤 **Author1**
+👤 **Joan Migani**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Joan13](https://github.com/Joan13)
 
 ## 🤝 Contributing
 
